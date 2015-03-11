@@ -1,0 +1,17 @@
+body {
+	background-color: hsla(252, 100%, 50%, 1);
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+article {
+	margin: 50px auto;
+}
+
+div {
+		background-color: hsla(158, 100%, 50%, 1);
+		border-radius: 8px;
+		width: 400px; 
+		padding: 40px;
+		box-shadow: 0 0 10px 1px hsla(0, 0%, 0%, .35)
+	}
