@@ -10,19 +10,18 @@
 html {
 	height: 100%;
 	background-color:  hsla(0, 100%, 54%, 0.5);
-	background: url(http://wand.images.worldnow.com/images/24266506_BG1.jpg)
+	background: url(http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Dr_Pepper_modern.svg/1280px-Dr_Pepper_modern.svg.png)
 	no-repeat center center fixed; 
   	background-size: cover;
-
-  }
-body{
+}
+body {
 	font-family: sans-serif;
 	height: 100%;
 	background-color: hsla(0, 100%, 50%, 0.25);
 	padding-top:65px;
 	margin: 0;
 }
-.product-label{
+.product {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: hsla(65, 55%, 84%, .90);
@@ -31,12 +30,15 @@ body{
 	padding: 20px;
 	box-shadow: 0 0 10px 1px hsla(0, 0%, 0%, .35)
 }
+
 img {
 	width: 100px;
 	float: left;
 	border-radius: 8px;
 	padding-top: 0px;
+	padding-right: 3px;
 }
+
 .target-promise {
 	float: left;
 	padding-left: 10px
